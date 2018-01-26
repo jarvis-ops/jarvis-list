@@ -1,0 +1,6 @@
+jarvis-cute [https://github.com/jarvis-cute/]
+jarvis-smart [https://github.com/jarvis-smart/]
+jarvis-evil [https://github.com/jarvis-evil/]
+
+ops1: https://github.com/jarvis-ops/
+ops2: https://github.com/jarvis-ops/
